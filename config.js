@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94715970224']
-global.OwnerNumber = ['94715970224']
-global.ownertag = ['94715970224']
+global.Owner = ['94713109257']
+global.OwnerNumber = ['94713109257']
+global.ownertag = ['94713109257']
 global.BotName = "chiku"
 global.packname = "chiku-bot"
 global.author = "By: (¯`·.¸¸.·´¯`·.¸¸.->   🎀  𝒩𝒾𝓂𝑒𝓈𝒽  🎀   >-.¸¸.·`¯´·.¸¸.·`¯("
