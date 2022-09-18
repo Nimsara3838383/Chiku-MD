@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919073603479']
-global.OwnerNumber = ['919073603479']
-global.ownertag = ['919073603479']
+global.Owner = ['94715970224']
+global.OwnerNumber = ['94715970224']
+global.ownertag = ['94715970224']
 global.BotName = "chiku"
 global.packname = "chiku-bot"
-global.author = "By: Rajkumar"
-global.OwnerName = "Rajkumar"
+global.author = "By: (¯`·.¸¸.·´¯`·.¸¸.->   🎀  𝒩𝒾𝓂𝑒𝓈𝒽  🎀   >-.¸¸.·`¯´·.¸¸.·`¯("
+global.OwnerName = "(¯`·.¸¸.·´¯`·.¸¸.->   🎀  𝒩𝒾𝓂𝑒𝓈𝒽  🎀   >-.¸¸.·`¯´·.¸¸.·`¯("
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
 global.sessionName = "session"
